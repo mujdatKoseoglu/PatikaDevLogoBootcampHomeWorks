@@ -1,4 +1,5 @@
-# Bir müşterinin, sipariş oluşturup, faturalarını kaydedebildiği ve görüntüleyebildiği uygulama
+# First Week Homework
+### Bir müşterinin, sipariş oluşturup, faturalarını kaydedebildiği ve görüntüleyebildiği uygulama
 * Tüm müşterilerin listelendiği
 * Yeni Müşteri oluşturabilen
 * İçerisinde ‘C’ harfi olan müşterilerilerin listelendiği
